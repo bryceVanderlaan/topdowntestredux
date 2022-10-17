@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="13" nextobjectid="80">
+ <tileset firstgid="1" source="Top Down Farmlands/Farmlands.tsx"/>
+ <tileset firstgid="1377" source="Green Village/Village.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzVlNsKgDAMQzf//6NF8EFGm6SXDXwowqY9aU07xxjzjWt5rmffcy+uQFjfIr51p+S3cnh8dr7msFhenyxNKl95r5OP3kU+UO8snX/hI06U72lStO7kZzx1gp+5V/hob8xE/l18K5/qT9RrSw/zGdunnXy2f6MeVflKWBrYLonUX9HCPIX8x3IqoXqWaY3WjnynzGOGn/WK0n/vP1Q84fmWzU9HbyL8Tq7qGY/XMQMZfke/WQ2Mj3YF0lfpU7V+z2OnfKf2LTpj2V5W535XVPnKXo3MZtdujdSM5mnH3nueNzkMBXY=
+  </data>
+ </layer>
+ <layer id="8" name="Sub Roads" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztw0EJADAMBLCaqZRJmX8L+95zv1JIIFXAr44TTpxwIwAAsMsDhg8Cbg==
+  </data>
+ </layer>
+ <layer id="2" name="Roads" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlF0KgCAQBr1LdZLKexTV/Y/gCvW2C7b+rOA3MG/qyCI6p2Mjd9Ir9+eCPvq1+jO5CLbof2dzjtz3zBr0y3ORN+PTqJ9CL/2o9FekWKKfoxbpjfwVAFCX1bh/kOfrZHwX61mgj35P/QBfByrQ
+  </data>
+ </layer>
+ <layer id="7" name="Paths" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1TkOgkAARmEavQdXcG+Ne+9eSsCtd69s3O+gntTXTELQIA5kRPBPvmih8yCYmEpqWhoZZJFDHgV4nZXw/lnnSnTKqKCKGupofND3syadFtrooIse+or6Jh0LQ4wwxgRTRf0ZnTkWWGKFNTYufT/P27kdnT0OOOKEMy6K7j8KC/J5hH1xutdf2f+ZxHulf196ZuL1e5V90f3Fvo5tQH2Z3XDHwAXXeHXr21/F9DdnCob8pT/N3gzyXK8rfqEZlf4wgP9g0RdnyZwp8x3xuzN8tmU2UJMJ7R7FSiht
+  </data>
+ </layer>
+ <layer id="3" name="Trees" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1lkvA0EAwPEp0QeKL+C+Htw3T+jpauI+n1wtxYv7eBL38QV5xJPy5BP4kzSZjO20u9Y2EZP8Ylbs/Lcz3YQQ30e3W5x0oRMdaEcbWmHw518jjCpUp1CDRzzhOclag3QG0I8QggjAn6IfQDCFEFwuIbKQjTy3EB7kowCFmKczh1nMYBpTmLSpX063ApUooleMEpSiDBt03nOEiPFzDauIImJT30vXBz8a6DWiCc1owT3tBxzTO8IhDrCv6W+m2f8kfxd66PWiD1748EI7jjt6t7jBNa40fWGiL+/FCL1RjGEcE25dIflId//V/gK9RSxhGSsO97fobWMHu9hzuH9K7wznuMClw327xn+f7y4iJkRt7MewjnqTrI7ATx72j41Iph/ghyOOV7xlqJ/7+X8IPK7M9Gvp1qH+F/vyHqv7PUR3GOFf7Mt7LM+dOnt5j+W5U2cv77E8V8/e7v0wWk/+nXr2uv2w8mxG6+kaunfBylkZradr6N4FK++p0XpW3zfdfWbPJvFZ1PvMXMtz9WxSrZP4LOp9Zq7luXo26a6j3mfmWp6rZ5PuOh9guabB
+  </data>
+ </layer>
+ <layer id="4" name="Trees 2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlTkOwjAQReMiKYAmElwgJXALOpJLQINYDkHNUTgWJaRi6RkLRrEsTTzDoKTxl75kJ+P/vChOkgSUJcdQCerFLRQoF/An5v/8QsB/amGZbvhYuf6c4F9SXS5XBcF/dMC/d7TGNnafc+jqjCnhGZ8YtRXxXPP9Lb65ZwVf8/1Z/oFZS/E19y+uX8PX3L+WvwXvGN7/jiG1Aq+FjoqKioqS6Qq+geuesgfwnxqCR0Y/D5/nZlOammZcqDYkn2ezZ+B5S+bSNONCtSH5PJtdgisvc5N+jG0ch7X+PnL7Lq8m6pBtje9tu3Tm6O+jpE+1OTnUPkr6VJuT8wYk8UTv
+  </data>
+ </layer>
+ <layer id="6" name="Animals" width="32" height="32" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAueMXM0PASiNHFgWIgOYpBMSt+eS4WhgZOFkz7gWIguREDNKFxoMmMyh8ogGz/BiB7/QC65wLQ7vN47L8DTGN3CaQzWoK3QLvfUWA/elwj87ug6QFXPqUXwJVPyQGr8IRVFxXKHEJgN5L9sHDFl9/wybVCzSIlDZ5BUocrXEHhAMxzoLyHF0yDmkVpGsQGgHkOlPeoDooGIK+60N9KmgD0+nQgwnKgAKG2BLXM3gpsd2xDanvUAtl1VGiLoMcVuj0wcBUodg1JfC6QPY8I+7GFz1+gvn849KLbQy2A7C9ZoJvkaBhvwHhpqEUrP2nlL2wAGC8Nc8moF3HFPbUBLE1YA+2yQbIPPYzQ5akNooFmx+Axn5D8UAC0LJ9GwSgAAQCs9EP6
+  </data>
+ </layer>
+ <objectgroup color="#aa0000" id="12" name="collision">
+  <object id="2" x="1" y="0.5" width="158.875" height="318.5"/>
+  <object id="3" x="160.125" y="0.5" width="217.875" height="127"/>
+  <object id="4" x="159.818" y="127.682" width="218.182" height="64.291"/>
+  <object id="8" x="160" y="191.875" width="64.5" height="63.625"/>
+  <object id="12" x="128" y="363.788" width="32" height="49.2121"/>
+  <object id="17" x="193" y="352.5" width="62.5" height="62"/>
+  <object id="19" x="96" y="320" width="32" height="128"/>
+  <object id="20" x="128" y="416" width="320" height="32"/>
+  <object id="21" x="416" y="288" width="32" height="128"/>
+  <object id="22" x="576" y="0" width="32" height="159.826"/>
+  <object id="23" x="608" y="0" width="32" height="128"/>
+  <object id="24" x="576" y="192.188" width="32" height="255.812"/>
+  <object id="25" x="544" y="293.818" width="32" height="82.3636"/>
+  <object id="26" x="608" y="288" width="32" height="128"/>
+  <object id="28" x="608" y="416" width="416" height="32"/>
+  <object id="29" x="928" y="0" width="96" height="128"/>
+  <object id="30" x="0" y="512" width="32" height="32"/>
+  <object id="31" x="128" y="512" width="32" height="32"/>
+  <object id="32" x="224" y="640" width="32" height="32"/>
+  <object id="39" x="480" y="608" width="32" height="32"/>
+  <object id="40" x="704" y="576" width="32" height="32"/>
+  <object id="41" x="992" y="544" width="32" height="32"/>
+  <object id="42" x="366.667" y="826" width="66" height="102"/>
+  <object id="43" x="143" y="793" width="67" height="103"/>
+  <object id="44" x="0" y="857.5" width="35" height="101"/>
+  <object id="45" x="32" y="954.667" width="992" height="69.3333"/>
+  <object id="47" x="656.083" y="824.667" width="63.25" height="103.333"/>
+  <object id="48" x="784" y="793.333" width="63.3333" height="102.667"/>
+  <object id="49" x="847.333" y="665.333" width="64.6667" height="102.667"/>
+  <object id="50" x="942" y="665.333" width="67.3333" height="102.667"/>
+  <object id="53" x="35.75" y="935">
+   <polyline points="0,0 12.25,-8.75 12.5,-30.5 6.25,-41.25 6.25,-50.75 4.5,-56.75 2,-63 -0.5,-76.75"/>
+  </object>
+  <object id="54" x="527.485" y="857.122" width="64.3636" height="102"/>
+  <object id="55" x="986.667" y="952.667">
+   <polyline points="0,0 2.66667,-11 8.66667,-16.6667 -5.66667,-20.6667 -6.33333,-23.6667 -11,-26.6667 -12,-33.3333 -12.6667,-47.6667 -4.66667,-56.6667 -26.6667,-57 -32.3333,-65.3333 -28,-76 -23.6667,-80 -23.6667,-83 -31.5758,-82.8485 -43.7576,-91.3939 -43.3939,-112.667 -37.0303,-121.758 -37.2121,-131.212 -34.8485,-139.03 -28.8485,-149.03 -17.2121,-158.848 -3.21212,-159.03 6.9697,-149.03 13.1515,-138.667 15.697,-130.121 15.5152,-118.121 21.8788,-112.667 21.5152,-95.9394 26.9697,-95.0303 37.3333,-87.2121"/>
+  </object>
+  <object id="57" x="224" y="864" width="32" height="32"/>
+  <object id="58" x="384" y="768" width="32" height="32"/>
+  <object id="60" x="0" y="608" width="32" height="160"/>
+  <object id="61" x="32" y="640" width="32" height="192"/>
+  <object id="62" x="64" y="608" width="64" height="96"/>
+  <object id="63" x="15.6364" y="768" width="16.3636" height="32"/>
+  <object id="65" x="64" y="736" width="32" height="32"/>
+  <object id="66" x="64" y="768" width="16.3636" height="32"/>
+  <object id="67" x="53.6364" y="611.455" width="10.3636" height="28.5455"/>
+  <object id="68" x="67.6364" y="601.818" width="24.7273" height="6.18182"/>
+  <object id="70" x="64" y="800" width="7.81818" height="28"/>
+  <object id="73" x="21.6364" y="800" width="10.3636" height="26.3636"/>
+  <object id="74" x="544" y="416" width="32" height="32"/>
+  <object id="75" x="384" y="32" width="32" height="32"/>
+  <object id="78" x="0" y="0">
+   <polyline points="0,0 0,1024 1024,1024 1024,0 -64,0"/>
+  </object>
+  <object id="79" x="139.636" y="320" width="8.54545" height="27.8182"/>
+ </objectgroup>
+ <objectgroup id="10" name="gameObjects"/>
+ <objectgroup id="11" name="playerStartLoc">
+  <object id="1" x="101.333" y="926">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
