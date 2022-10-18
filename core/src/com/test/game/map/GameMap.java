@@ -1,4 +1,4 @@
-package com.test.game.map;
+package com.test.game.screen.map;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.maps.MapLayer;

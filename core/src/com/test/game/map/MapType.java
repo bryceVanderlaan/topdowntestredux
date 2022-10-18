@@ -1,4 +1,4 @@
-package com.test.game.map;
+package com.test.game.screen.map;
 
 public enum MapType {
     MAP_1("samplemap.tmx"),
